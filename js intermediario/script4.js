@@ -1,4 +1,4 @@
-// Encadeamento de objetos e optional chaining
+// // Encadeamento de objetos e optional chaining
 
 // const user = {
 //     id: 1,
